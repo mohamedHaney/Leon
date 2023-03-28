@@ -45,7 +45,7 @@ font-size: 20px;
       font-family: 'Open Sans', sans-serif;
    }
 
-.container {
+.contener {
    padding-left: 15px;
    padding-right: 15px;
    margin-left: auto;
@@ -54,7 +54,7 @@ font-size: 20px;
 
 /* Small */
 @media (min-width: 768px) {
-   .container {
+   .contener {
       width: 750px;
    }
 }
@@ -68,7 +68,7 @@ font-size: 20px;
 
 /* Large */
 @media (min-width: 1200px) {
-   .container {
+   .contener {
       width: 1170px;
    }
 }
